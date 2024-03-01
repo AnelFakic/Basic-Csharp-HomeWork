@@ -1,0 +1,14 @@
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\bin\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.exe
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\bin\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.deps.json
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\bin\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.runtimeconfig.json
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\bin\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.dll
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\bin\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.pdb
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.AssemblyInfoInputs.cache
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.AssemblyInfo.cs
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.csproj.CoreCompileInputs.cache
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.dll
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\refint\Anel Fakic Homework #2 AvgNum and Swap.dll
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.pdb
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\Anel Fakic Homework #2 AvgNum and Swap.genruntimeconfig.cache
+E:\Basic C# code\Anel Fakic Homework #2 AvgNum and Swap\Anel Fakic Homework #2 AvgNum and Swap\obj\Debug\net6.0\ref\Anel Fakic Homework #2 AvgNum and Swap.dll

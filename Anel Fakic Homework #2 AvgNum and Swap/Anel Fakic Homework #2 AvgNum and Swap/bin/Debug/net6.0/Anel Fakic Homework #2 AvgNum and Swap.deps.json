@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Anel Fakic Homework #2 AvgNum and Swap/1.0.0": {
+        "runtime": {
+          "Anel Fakic Homework #2 AvgNum and Swap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anel Fakic Homework #2 AvgNum and Swap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
