@@ -1,0 +1,14 @@
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\bin\Debug\net6.0\Anel Fakic Homework #1 stick man.exe
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\bin\Debug\net6.0\Anel Fakic Homework #1 stick man.deps.json
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\bin\Debug\net6.0\Anel Fakic Homework #1 stick man.runtimeconfig.json
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\bin\Debug\net6.0\Anel Fakic Homework #1 stick man.dll
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\bin\Debug\net6.0\Anel Fakic Homework #1 stick man.pdb
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.AssemblyInfoInputs.cache
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.AssemblyInfo.cs
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.csproj.CoreCompileInputs.cache
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.dll
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\refint\Anel Fakic Homework #1 stick man.dll
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.pdb
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\Anel Fakic Homework #1 stick man.genruntimeconfig.cache
+E:\Basic C# code\Anel Fakic Homework #1 stick man\Anel Fakic Homework #1 stick man\obj\Debug\net6.0\ref\Anel Fakic Homework #1 stick man.dll
