@@ -1,0 +1,14 @@
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.AssemblyInfoInputs.cache
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.AssemblyInfo.cs
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.csproj.CoreCompileInputs.cache
+E:\Basic C# code\Homework Class 4\Task 2\bin\Debug\net6.0\Task 2.exe
+E:\Basic C# code\Homework Class 4\Task 2\bin\Debug\net6.0\Task 2.deps.json
+E:\Basic C# code\Homework Class 4\Task 2\bin\Debug\net6.0\Task 2.runtimeconfig.json
+E:\Basic C# code\Homework Class 4\Task 2\bin\Debug\net6.0\Task 2.dll
+E:\Basic C# code\Homework Class 4\Task 2\bin\Debug\net6.0\Task 2.pdb
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.dll
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\refint\Task 2.dll
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.pdb
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\Task 2.genruntimeconfig.cache
+E:\Basic C# code\Homework Class 4\Task 2\obj\Debug\net6.0\ref\Task 2.dll
