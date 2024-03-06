@@ -1,0 +1,14 @@
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\bin\Debug\net6.0\Class 3 Homework.exe
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\bin\Debug\net6.0\Class 3 Homework.deps.json
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\bin\Debug\net6.0\Class 3 Homework.runtimeconfig.json
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\bin\Debug\net6.0\Class 3 Homework.dll
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\bin\Debug\net6.0\Class 3 Homework.pdb
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.AssemblyInfoInputs.cache
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.AssemblyInfo.cs
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.csproj.CoreCompileInputs.cache
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.dll
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\refint\Class 3 Homework.dll
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.pdb
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\Class 3 Homework.genruntimeconfig.cache
+E:\Basic C# code\Class 3 Homework\Class 3 Homework\obj\Debug\net6.0\ref\Class 3 Homework.dll
