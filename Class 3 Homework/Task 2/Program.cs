@@ -18,7 +18,6 @@
                 
                 Console.WriteLine(i);
             }
-
             Console.WriteLine("Counting Down");
             for (int i = 0;i < CountDown; CountDown--)
             {
