@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Basic C# code\\Homework Class 4\\Task 2\\Task 2.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\Basic-Csharp-HomeWork\\Homework Class 4\\Task 2\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "E:\\Basic C# code\\Homework Class 4\\Task 2\\Task 2.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\Basic-Csharp-HomeWork\\Homework Class 4\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Basic C# code\\Homework Class 4\\Task 2\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\Basic-Csharp-HomeWork\\Homework Class 4\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

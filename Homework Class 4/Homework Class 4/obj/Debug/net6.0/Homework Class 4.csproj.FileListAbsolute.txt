@@ -12,3 +12,18 @@ E:\Basic C# code\Homework Class 4\Homework Class 4\obj\Debug\net6.0\refint\Homew
 E:\Basic C# code\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.pdb
 E:\Basic C# code\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.genruntimeconfig.cache
 E:\Basic C# code\Homework Class 4\Homework Class 4\obj\Debug\net6.0\ref\Homework Class 4.dll
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\bin\Debug\net6.0\Homework Class 4.exe
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\bin\Debug\net6.0\Homework Class 4.deps.json
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\bin\Debug\net6.0\Homework Class 4.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\bin\Debug\net6.0\Homework Class 4.dll
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\bin\Debug\net6.0\Homework Class 4.pdb
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.sourcelink.json
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.dll
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\refint\Homework Class 4.dll
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.pdb
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\Homework Class 4.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\Basic-Csharp-HomeWork\Homework Class 4\Homework Class 4\obj\Debug\net6.0\ref\Homework Class 4.dll

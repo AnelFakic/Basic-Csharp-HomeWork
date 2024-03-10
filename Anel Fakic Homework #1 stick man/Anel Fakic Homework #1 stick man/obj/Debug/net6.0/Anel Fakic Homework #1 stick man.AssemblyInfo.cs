@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anel Fakic Homework #1 stick man")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e012d7b887054b97df721e253d10d289ad2af1ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anel Fakic Homework #1 stick man")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anel Fakic Homework #1 stick man")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
