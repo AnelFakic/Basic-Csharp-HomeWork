@@ -1,0 +1,14 @@
+E:\Basic C# code\Homework Class 6\Homework Class 6\bin\Debug\net6.0\Homework Class 6.exe
+E:\Basic C# code\Homework Class 6\Homework Class 6\bin\Debug\net6.0\Homework Class 6.deps.json
+E:\Basic C# code\Homework Class 6\Homework Class 6\bin\Debug\net6.0\Homework Class 6.runtimeconfig.json
+E:\Basic C# code\Homework Class 6\Homework Class 6\bin\Debug\net6.0\Homework Class 6.dll
+E:\Basic C# code\Homework Class 6\Homework Class 6\bin\Debug\net6.0\Homework Class 6.pdb
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.AssemblyInfoInputs.cache
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.AssemblyInfo.cs
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.csproj.CoreCompileInputs.cache
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.dll
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\refint\Homework Class 6.dll
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.pdb
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\Homework Class 6.genruntimeconfig.cache
+E:\Basic C# code\Homework Class 6\Homework Class 6\obj\Debug\net6.0\ref\Homework Class 6.dll
